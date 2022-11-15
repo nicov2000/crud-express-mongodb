@@ -14,6 +14,8 @@ Aplicacion para administrar tareas.
 
 [OK] 2. Configuracion de Router y Vistas con express-handlebars.
 
+[OK] 3. Conexión a base de datos usando Mongoose, definición de Modelos y Schemas.
+
 # Tecnologías
 
 - (in process)
